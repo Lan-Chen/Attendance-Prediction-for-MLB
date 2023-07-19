@@ -1,0 +1,269 @@
+countryOrRegion,holidayName,normalizeHolidayName,isPaidTimeOff,countryRegionCode,date
+United States,New Year's Day,New Year's Day,True,US,2000-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2000-01-17
+United States,Washington's Birthday,Washington's Birthday,True,US,2000-02-21
+United States,Memorial Day,Memorial Day,True,US,2000-05-29
+United States,Independence Day,Independence Day,True,US,2000-07-04
+United States,Labor Day,Labor Day,True,US,2000-09-04
+United States,Columbus Day,Columbus Day,False,US,2000-10-09
+United States,Veterans Day (Observed),Veterans Day,False,US,2000-11-10
+United States,Veterans Day,Veterans Day,False,US,2000-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2000-11-23
+United States,Christmas Day,Christmas Day,True,US,2000-12-25
+United States,New Year's Day,New Year's Day,True,US,2001-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2001-01-15
+United States,Washington's Birthday,Washington's Birthday,True,US,2001-02-19
+United States,Memorial Day,Memorial Day,True,US,2001-05-28
+United States,Independence Day,Independence Day,True,US,2001-07-04
+United States,Labor Day,Labor Day,True,US,2001-09-03
+United States,Columbus Day,Columbus Day,False,US,2001-10-08
+United States,Veterans Day,Veterans Day,False,US,2001-11-11
+United States,Veterans Day (Observed),Veterans Day,False,US,2001-11-12
+United States,Thanksgiving,Thanksgiving,True,US,2001-11-22
+United States,Christmas Day,Christmas Day,True,US,2001-12-25
+United States,New Year's Day,New Year's Day,True,US,2002-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2002-01-21
+United States,Washington's Birthday,Washington's Birthday,True,US,2002-02-18
+United States,Memorial Day,Memorial Day,True,US,2002-05-27
+United States,Independence Day,Independence Day,True,US,2002-07-04
+United States,Labor Day,Labor Day,True,US,2002-09-02
+United States,Columbus Day,Columbus Day,False,US,2002-10-14
+United States,Veterans Day,Veterans Day,False,US,2002-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2002-11-28
+United States,Christmas Day,Christmas Day,True,US,2002-12-25
+United States,New Year's Day,New Year's Day,True,US,2003-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2003-01-20
+United States,Washington's Birthday,Washington's Birthday,True,US,2003-02-17
+United States,Memorial Day,Memorial Day,True,US,2003-05-26
+United States,Independence Day,Independence Day,True,US,2003-07-04
+United States,Labor Day,Labor Day,True,US,2003-09-01
+United States,Columbus Day,Columbus Day,False,US,2003-10-13
+United States,Veterans Day,Veterans Day,False,US,2003-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2003-11-27
+United States,Christmas Day,Christmas Day,True,US,2003-12-25
+United States,New Year's Day,New Year's Day,True,US,2004-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2004-01-19
+United States,Washington's Birthday,Washington's Birthday,True,US,2004-02-16
+United States,Memorial Day,Memorial Day,True,US,2004-05-31
+United States,Independence Day,Independence Day,True,US,2004-07-04
+United States,Independence Day (Observed),Independence Day,True,US,2004-07-05
+United States,Labor Day,Labor Day,True,US,2004-09-06
+United States,Columbus Day,Columbus Day,False,US,2004-10-11
+United States,Veterans Day,Veterans Day,False,US,2004-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2004-11-25
+United States,Christmas Day (Observed),Christmas Day,True,US,2004-12-24
+United States,Christmas Day,Christmas Day,True,US,2004-12-25
+United States,New Year's Day (Observed),New Year's Day,True,US,2004-12-31
+United States,New Year's Day,New Year's Day,True,US,2005-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2005-01-17
+United States,Washington's Birthday,Washington's Birthday,True,US,2005-02-21
+United States,Memorial Day,Memorial Day,True,US,2005-05-30
+United States,Independence Day,Independence Day,True,US,2005-07-04
+United States,Labor Day,Labor Day,True,US,2005-09-05
+United States,Columbus Day,Columbus Day,False,US,2005-10-10
+United States,Veterans Day,Veterans Day,False,US,2005-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2005-11-24
+United States,Christmas Day,Christmas Day,True,US,2005-12-25
+United States,Christmas Day (Observed),Christmas Day,True,US,2005-12-26
+United States,New Year's Day,New Year's Day,True,US,2006-01-01
+United States,New Year's Day (Observed),New Year's Day,True,US,2006-01-02
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2006-01-16
+United States,Washington's Birthday,Washington's Birthday,True,US,2006-02-20
+United States,Memorial Day,Memorial Day,True,US,2006-05-29
+United States,Independence Day,Independence Day,True,US,2006-07-04
+United States,Labor Day,Labor Day,True,US,2006-09-04
+United States,Columbus Day,Columbus Day,False,US,2006-10-09
+United States,Veterans Day (Observed),Veterans Day,False,US,2006-11-10
+United States,Veterans Day,Veterans Day,False,US,2006-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2006-11-23
+United States,Christmas Day,Christmas Day,True,US,2006-12-25
+United States,New Year's Day,New Year's Day,True,US,2007-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2007-01-15
+United States,Washington's Birthday,Washington's Birthday,True,US,2007-02-19
+United States,Memorial Day,Memorial Day,True,US,2007-05-28
+United States,Independence Day,Independence Day,True,US,2007-07-04
+United States,Labor Day,Labor Day,True,US,2007-09-03
+United States,Columbus Day,Columbus Day,False,US,2007-10-08
+United States,Veterans Day,Veterans Day,False,US,2007-11-11
+United States,Veterans Day (Observed),Veterans Day,False,US,2007-11-12
+United States,Thanksgiving,Thanksgiving,True,US,2007-11-22
+United States,Christmas Day,Christmas Day,True,US,2007-12-25
+United States,New Year's Day,New Year's Day,True,US,2008-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2008-01-21
+United States,Washington's Birthday,Washington's Birthday,True,US,2008-02-18
+United States,Memorial Day,Memorial Day,True,US,2008-05-26
+United States,Independence Day,Independence Day,True,US,2008-07-04
+United States,Labor Day,Labor Day,True,US,2008-09-01
+United States,Columbus Day,Columbus Day,False,US,2008-10-13
+United States,Veterans Day,Veterans Day,False,US,2008-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2008-11-27
+United States,Christmas Day,Christmas Day,True,US,2008-12-25
+United States,New Year's Day,New Year's Day,True,US,2009-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2009-01-19
+United States,Washington's Birthday,Washington's Birthday,True,US,2009-02-16
+United States,Memorial Day,Memorial Day,True,US,2009-05-25
+United States,Independence Day (Observed),Independence Day,True,US,2009-07-03
+United States,Independence Day,Independence Day,True,US,2009-07-04
+United States,Labor Day,Labor Day,True,US,2009-09-07
+United States,Columbus Day,Columbus Day,False,US,2009-10-12
+United States,Veterans Day,Veterans Day,False,US,2009-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2009-11-26
+United States,Christmas Day,Christmas Day,True,US,2009-12-25
+United States,New Year's Day,New Year's Day,True,US,2010-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2010-01-18
+United States,Washington's Birthday,Washington's Birthday,True,US,2010-02-15
+United States,Memorial Day,Memorial Day,True,US,2010-05-31
+United States,Independence Day,Independence Day,True,US,2010-07-04
+United States,Independence Day (Observed),Independence Day,True,US,2010-07-05
+United States,Labor Day,Labor Day,True,US,2010-09-06
+United States,Columbus Day,Columbus Day,False,US,2010-10-11
+United States,Veterans Day,Veterans Day,False,US,2010-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2010-11-25
+United States,Christmas Day (Observed),Christmas Day,True,US,2010-12-24
+United States,Christmas Day,Christmas Day,True,US,2010-12-25
+United States,New Year's Day (Observed),New Year's Day,True,US,2010-12-31
+United States,New Year's Day,New Year's Day,True,US,2011-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2011-01-17
+United States,Washington's Birthday,Washington's Birthday,True,US,2011-02-21
+United States,Memorial Day,Memorial Day,True,US,2011-05-30
+United States,Independence Day,Independence Day,True,US,2011-07-04
+United States,Labor Day,Labor Day,True,US,2011-09-05
+United States,Columbus Day,Columbus Day,False,US,2011-10-10
+United States,Veterans Day,Veterans Day,False,US,2011-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2011-11-24
+United States,Christmas Day,Christmas Day,True,US,2011-12-25
+United States,Christmas Day (Observed),Christmas Day,True,US,2011-12-26
+United States,New Year's Day,New Year's Day,True,US,2012-01-01
+United States,New Year's Day (Observed),New Year's Day,True,US,2012-01-02
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2012-01-16
+United States,Washington's Birthday,Washington's Birthday,True,US,2012-02-20
+United States,Memorial Day,Memorial Day,True,US,2012-05-28
+United States,Independence Day,Independence Day,True,US,2012-07-04
+United States,Labor Day,Labor Day,True,US,2012-09-03
+United States,Columbus Day,Columbus Day,False,US,2012-10-08
+United States,Veterans Day,Veterans Day,False,US,2012-11-11
+United States,Veterans Day (Observed),Veterans Day,False,US,2012-11-12
+United States,Thanksgiving,Thanksgiving,True,US,2012-11-22
+United States,Christmas Day,Christmas Day,True,US,2012-12-25
+United States,New Year's Day,New Year's Day,True,US,2013-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2013-01-21
+United States,Washington's Birthday,Washington's Birthday,True,US,2013-02-18
+United States,Memorial Day,Memorial Day,True,US,2013-05-27
+United States,Independence Day,Independence Day,True,US,2013-07-04
+United States,Labor Day,Labor Day,True,US,2013-09-02
+United States,Columbus Day,Columbus Day,False,US,2013-10-14
+United States,Veterans Day,Veterans Day,False,US,2013-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2013-11-28
+United States,Christmas Day,Christmas Day,True,US,2013-12-25
+United States,New Year's Day,New Year's Day,True,US,2014-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2014-01-20
+United States,Washington's Birthday,Washington's Birthday,True,US,2014-02-17
+United States,Memorial Day,Memorial Day,True,US,2014-05-26
+United States,Independence Day,Independence Day,True,US,2014-07-04
+United States,Labor Day,Labor Day,True,US,2014-09-01
+United States,Columbus Day,Columbus Day,False,US,2014-10-13
+United States,Veterans Day,Veterans Day,False,US,2014-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2014-11-27
+United States,Christmas Day,Christmas Day,True,US,2014-12-25
+United States,New Year's Day,New Year's Day,True,US,2015-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2015-01-19
+United States,Washington's Birthday,Washington's Birthday,True,US,2015-02-16
+United States,Memorial Day,Memorial Day,True,US,2015-05-25
+United States,Independence Day (Observed),Independence Day,True,US,2015-07-03
+United States,Independence Day,Independence Day,True,US,2015-07-04
+United States,Labor Day,Labor Day,True,US,2015-09-07
+United States,Columbus Day,Columbus Day,False,US,2015-10-12
+United States,Veterans Day,Veterans Day,False,US,2015-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2015-11-26
+United States,Christmas Day,Christmas Day,True,US,2015-12-25
+United States,New Year's Day,New Year's Day,True,US,2016-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2016-01-18
+United States,Washington's Birthday,Washington's Birthday,True,US,2016-02-15
+United States,Memorial Day,Memorial Day,True,US,2016-05-30
+United States,Independence Day,Independence Day,True,US,2016-07-04
+United States,Labor Day,Labor Day,True,US,2016-09-05
+United States,Columbus Day,Columbus Day,False,US,2016-10-10
+United States,Veterans Day,Veterans Day,False,US,2016-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2016-11-24
+United States,Christmas Day,Christmas Day,True,US,2016-12-25
+United States,Christmas Day (Observed),Christmas Day,True,US,2016-12-26
+United States,New Year's Day,New Year's Day,True,US,2017-01-01
+United States,New Year's Day (Observed),New Year's Day,True,US,2017-01-02
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2017-01-16
+United States,Washington's Birthday,Washington's Birthday,True,US,2017-02-20
+United States,Memorial Day,Memorial Day,True,US,2017-05-29
+United States,Independence Day,Independence Day,True,US,2017-07-04
+United States,Labor Day,Labor Day,True,US,2017-09-04
+United States,Columbus Day,Columbus Day,False,US,2017-10-09
+United States,Veterans Day (Observed),Veterans Day,False,US,2017-11-10
+United States,Veterans Day,Veterans Day,False,US,2017-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2017-11-23
+United States,Christmas Day,Christmas Day,True,US,2017-12-25
+United States,New Year's Day,New Year's Day,True,US,2018-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2018-01-15
+United States,Washington's Birthday,Washington's Birthday,True,US,2018-02-19
+United States,Memorial Day,Memorial Day,True,US,2018-05-28
+United States,Independence Day,Independence Day,True,US,2018-07-04
+United States,Labor Day,Labor Day,True,US,2018-09-03
+United States,Columbus Day,Columbus Day,False,US,2018-10-08
+United States,Veterans Day,Veterans Day,False,US,2018-11-11
+United States,Veterans Day (Observed),Veterans Day,False,US,2018-11-12
+United States,Thanksgiving,Thanksgiving,True,US,2018-11-22
+United States,Christmas Day,Christmas Day,True,US,2018-12-25
+United States,New Year's Day,New Year's Day,True,US,2019-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2019-01-21
+United States,Washington's Birthday,Washington's Birthday,True,US,2019-02-18
+United States,Memorial Day,Memorial Day,True,US,2019-05-27
+United States,Independence Day,Independence Day,True,US,2019-07-04
+United States,Labor Day,Labor Day,True,US,2019-09-02
+United States,Columbus Day,Columbus Day,False,US,2019-10-14
+United States,Veterans Day,Veterans Day,False,US,2019-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2019-11-28
+United States,Christmas Day,Christmas Day,True,US,2019-12-25
+United States,New Year's Day,New Year's Day,True,US,2020-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2020-01-20
+United States,Washington's Birthday,Washington's Birthday,True,US,2020-02-17
+United States,Memorial Day,Memorial Day,True,US,2020-05-25
+United States,Independence Day (Observed),Independence Day,True,US,2020-07-03
+United States,Independence Day,Independence Day,True,US,2020-07-04
+United States,Labor Day,Labor Day,True,US,2020-09-07
+United States,Columbus Day,Columbus Day,False,US,2020-10-12
+United States,Veterans Day,Veterans Day,False,US,2020-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2020-11-26
+United States,Christmas Day,Christmas Day,True,US,2020-12-25
+United States,New Year's Day,New Year's Day,True,US,2021-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2021-01-18
+United States,Washington's Birthday,Washington's Birthday,True,US,2021-02-15
+United States,Memorial Day,Memorial Day,True,US,2021-05-31
+United States,Independence Day,Independence Day,True,US,2021-07-04
+United States,Independence Day (Observed),Independence Day,True,US,2021-07-05
+United States,Labor Day,Labor Day,True,US,2021-09-06
+United States,Columbus Day,Columbus Day,False,US,2021-10-11
+United States,Veterans Day,Veterans Day,False,US,2021-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2021-11-25
+United States,Christmas Day (Observed),Christmas Day,True,US,2021-12-24
+United States,Christmas Day,Christmas Day,True,US,2021-12-25
+United States,New Year's Day (Observed),New Year's Day,True,US,2021-12-31
+United States,New Year's Day,New Year's Day,True,US,2022-01-01
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2022-01-17
+United States,Washington's Birthday,Washington's Birthday,True,US,2022-02-21
+United States,Memorial Day,Memorial Day,True,US,2022-05-30
+United States,Independence Day,Independence Day,True,US,2022-07-04
+United States,Labor Day,Labor Day,True,US,2022-09-05
+United States,Columbus Day,Columbus Day,False,US,2022-10-10
+United States,Veterans Day,Veterans Day,False,US,2022-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2022-11-24
+United States,Christmas Day,Christmas Day,True,US,2022-12-25
+United States,Christmas Day (Observed),Christmas Day,True,US,2022-12-26
+United States,New Year's Day,New Year's Day,True,US,2023-01-01
+United States,New Year's Day (Observed),New Year's Day,True,US,2023-01-02
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,2023-01-16
+United States,Washington's Birthday,Washington's Birthday,True,US,2023-02-20
+United States,Memorial Day,Memorial Day,True,US,2023-05-29
+United States,Independence Day,Independence Day,True,US,2023-07-04
+United States,Labor Day,Labor Day,True,US,2023-09-04
+United States,Columbus Day,Columbus Day,False,US,2023-10-09
+United States,Veterans Day (Observed),Veterans Day,False,US,2023-11-10
+United States,Veterans Day,Veterans Day,False,US,2023-11-11
+United States,Thanksgiving,Thanksgiving,True,US,2023-11-23
+United States,Christmas Day,Christmas Day,True,US,2023-12-25

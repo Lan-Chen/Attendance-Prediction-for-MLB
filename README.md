@@ -14,8 +14,8 @@ A big thanks and credit to all the team members who made this project possible:
 
 ## Deliverables
 - [Presentation video](https://www.youtube.com/watch?v=OOTj8_1UaQA)
-- Deck
-- Code
+- [Deck](https://github.com/Lan-Chen/Attendance-Prediction-for-MLB/tree/main/Deck)
+- [Code](https://github.com/Lan-Chen/Attendance-Prediction-for-MLB/tree/main/Code)
 
 ## Project Overview
 Attendance is a crucial factor for the success of MLB teams. Accurately predicting attendance can have significant impacts on both long-term and short-term profitability and operational efficiency. However, the prediction of MLB attendance can be complicated due to multiple factors, leading to inaccurate forecasts and potentially suboptimal business decisions.
